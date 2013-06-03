@@ -1,6 +1,9 @@
+#IN PRODUCTION
+This module is still in production 
+
 # AdminStructure
 
-TODO: Write a gem description
+Will add drag and drop ability to activeadmin with nestable children. 
 
 ## Installation
 
