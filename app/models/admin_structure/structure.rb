@@ -2,7 +2,7 @@ module AdminStructure
   class Structure < ActiveRecord::Base
     attr_accessible :model_name
 
-    scope :parents, where("level = ?", 1)
+    #scope :parents, where("level = ?", 1)
 
 
     def self.entries
